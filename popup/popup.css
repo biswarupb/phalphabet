@@ -1,0 +1,23 @@
+* 
+{
+	font-family:sans-serif;
+}
+td:hover 
+{
+	background-color: #f9e37c;
+	cursor: pointer;
+}
+a.weblink
+{
+	text-decoration: none;
+	font-size: 12px;
+}
+td#envdata:hover 
+{
+	background-color: transparent;
+	cursor: auto;
+}
+hr 
+{ 
+	margin: 1px; 
+}

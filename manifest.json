@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Phalphabet",
-  "version": "1.0",
+  "version": "1.0.1",
 
   "description": "NATO Phonetic Alphabet",
 
@@ -16,7 +16,7 @@
 
   "browser_action": {
     "default_icon": "icons/border-48.png",
-    "default_title": "NATO Phalphabet",
+    "default_title": "Phalphabet",
     "default_popup": "popup/popup.html"
   }
 
